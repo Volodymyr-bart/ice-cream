@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ElVent0.github.io/ice-cream-team3",
+  "homepage": "https://Volodymyr-bart.github.io/ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-team3/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Volodymyr-bart/ice-cream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Volodymyr-bart/ice-cream/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
